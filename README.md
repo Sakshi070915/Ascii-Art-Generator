@@ -15,10 +15,10 @@ The **ASCII Art Generator** is a tool that converts images or text into ASCII ar
 -termcolor 
 -pillow
 ## 🎨 Screenshots of the UI
-![Light Mode Preview]![s]
-(https://github.com/user-attachments/assets/7cf1d899-f886-4161-a7c6-c3712f1d3f36)
-![Dark Mode Preview]![ASCII]
-(https://github.com/user-attachments/assets/28c6395d-680e-4db0-b6ad-fc7b2941b475)
+![Light Mode Preview]!
+[s](https://github.com/user-attachments/assets/7cf1d899-f886-4161-a7c6-c3712f1d3f36)
+![Dark Mode Preview]!
+[ASCII](https://github.com/user-attachments/assets/28c6395d-680e-4db0-b6ad-fc7b2941b475)
 
 
 ## 🚀 How to Run the Project
