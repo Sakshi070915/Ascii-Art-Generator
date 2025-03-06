@@ -25,18 +25,27 @@ The **ASCII Art Generator** is a tool that converts images or text into ASCII ar
 
 
 ## 🚀 How to Run the Project
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/ascii-art-generator.git
-   cd ascii-art-generator
-   ```
-2. **Open `index.html` in a browser** (for simple use).
-3. **Run a local server** (if needed for image processing):
-   ```sh
-   npm install
-   npm start
-   ```
-4. **Upload an image or enter text**, then customize settings to generate ASCII art!
+### 1️⃣ Install Dependencies
+Ensure you have the latest version of Python installed (**3.12 or above recommended**). You can check your Python version by running:
+
+```sh
+python --version
+```
+
+Next, install the required dependencies:
+
+```sh
+pip install pyfiglet pillow
+```
+
+### 2️⃣ Run the Script
+```sh
+python ascii_art_generator.py
+```
+
+### 3️⃣ Generate ASCII Art
+Enter your text, select a font & theme, and generate ASCII art!
+
 
 ## 🤖 Extra Features
 - **Color Schemes:**
