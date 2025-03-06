@@ -11,15 +11,15 @@ The **ASCII Art Generator** is a tool that converts images or text into ASCII ar
 - Ability to **download ASCII output** as a `.txt` or `.png` file.
 
 ## 🛠 Technologies/Libraries Used
--pyfiglet
--termcolor 
--pillow
+- pyfiglet
+- termcolor 
+- pillow
 ## 🎨 Screenshots of the UI
--Light Mode Preview
+- Light Mode Preview
 
 ![ASCII2](https://github.com/user-attachments/assets/758a9302-4e2f-4934-91ef-cce3c7269966)
 
--Dark Mode Preview
+- Dark Mode Preview
 
 ![ASCII](https://github.com/user-attachments/assets/28c6395d-680e-4db0-b6ad-fc7b2941b475)
 
